@@ -1,0 +1,2 @@
+Data Source:
+LHCb collaboration (2017). Matter Antimatter Differences (B meson decays to three hadrons) - Data Files. CERN Open Data Portal. DOI:10.7483/OPENDATA.LHCB.AOF7.JH09
